@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "355358535933",
+    "project_id": "fir-basics-e93fb",
+    "storage_bucket": "fir-basics-e93fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355358535933:android:9c2f9a444d9e0c4c49ce94",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_basics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALlqhWFY39PNzxTVJEJuf0tu__VwRgdlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
